@@ -40,6 +40,8 @@
 
 - Machine Learning: 
 
+  - Federated Learning.
+
   - Knowledge Distillation. 
   
   - Transfer Learning. 
