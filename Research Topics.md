@@ -4,7 +4,7 @@
     - OSDI_2014 Scaling Distributed Machine Learning with the Parameter Server.
     
   - Quantized training. 
-    - ICML_2018 Error Compensated Quantized SGD and its Applications to Large-scale Distributed Optimization。
+    - ICML_2018 Error Compensated Quantized SGD and its Applications to Large-scale Distributed Optimization.
 
   - Pipelined Training. 
     - SOSP_2019 PipeDream: Generalized Pipeline Parallelism for DNN Training
@@ -75,8 +75,10 @@
   - Asynchronous Algorithm.
   
 
-- Graph: 
+- Graph Representation Learning: 
 
-  - Network, 
+  - Network.
+
+  - Adversarial Learning on Graph.
    
   - Graph Analysis/Graph Neural Network.
