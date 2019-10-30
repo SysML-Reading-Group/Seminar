@@ -8,3 +8,4 @@ Week | Topic&Slides | People&Group | Company | New AP in Academia
 4 | [Language Representation](https://github.com/SysML-Reading-Group/Seminar/tree/master/Slides) | [CMU Parallel Data Lab](https://www.pdl.cmu.edu/index.shtml) | [Turi](https://turi.com/) | [Tianqi Chen](https://tqchen.com/)
 5 | [Graph Representation Learning](https://github.com/SysML-Reading-Group/Seminar/tree/master/Slides) | None | None | [Jian Tang](https://jian-tang.com/)
 6 | [Federated Learning](https://github.com/SysML-Reading-Group/Seminar/tree/master/Slides) | [ETH DS3Lab](https://www.ds3lab.com) | [DataRobot](https://www.datarobot.com) | [Ce Zhang](https://www.ds3lab.com/members/ce-zhang/)
+7 | [Geometric Deep Learning](https://github.com/SysML-Reading-Group/Seminar/tree/master/Slides) | None | None | None
